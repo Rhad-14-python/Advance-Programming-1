@@ -1,0 +1,8 @@
+7
+2854, ​Arthur Morgan, 15, 13, 16, 60
+7314, John Marston, 10, 14, 16, 57
+8457, Dutch van der Linde, 15, 17, 11, 55
+1284, Micah Bell, 7, 10, 12, 30
+2138, Sadie Adler, 8, 11, 26, 45
+9535, Josiah Trelawny, 16, 19, 15, 65
+8634, Lenny Summers, 14, 14, 11, 50
